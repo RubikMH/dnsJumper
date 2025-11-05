@@ -237,23 +237,14 @@
     },
     {
       "id": 48,
-      "ip": "10.202.10.10",
-      "company": "Radar"
-    },
-    {
-      "id": 49,
-      "ip": "10.202.10.11",
-      "company": "Radar Backup"
-    },
-    {
-      "id": 50,
       "ip": "185.51.200.2",
       "company": "Shecan"
     },
     {
-      "id": 51,
+      "id": 49,
       "ip": "178.22.122.100",
       "company": "Shecan Backup"
     }
+
   ]
 }
