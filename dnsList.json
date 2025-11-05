@@ -1,0 +1,259 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "ip": "1.1.1.1",
+      "company": "Cloudflare"
+    },
+    {
+      "id": 2,
+      "ip": "8.8.8.8",
+      "company": "Google"
+    },
+    {
+      "id": 3,
+      "ip": "9.9.9.9",
+      "company": "Quad9"
+    },
+    {
+      "id": 4,
+      "ip": "208.67.222.222",
+      "company": "OpenDNS"
+    },
+    {
+      "id": 5,
+      "ip": "8.26.56.26",
+      "company": "Comodo DNS"
+    },
+    {
+      "id": 6,
+      "ip": "1.0.0.1",
+      "company": "Cloudflare Backup"
+    },
+    {
+      "id": 7,
+      "ip": "8.8.4.4",
+      "company": "Google Backup"
+    },
+    {
+      "id": 8,
+      "ip": "208.67.220.220",
+      "company": "OpenDNS Backup"
+    },
+    {
+      "id": 9,
+      "ip": "77.88.8.8",
+      "company": "Yandex DNS"
+    },
+    {
+      "id": 10,
+      "ip": "77.88.8.1",
+      "company": "Yandex DNS Backup"
+    },
+    {
+      "id": 11,
+      "ip": "4.2.2.1",
+      "company": "Level3"
+    },
+    {
+      "id": 12,
+      "ip": "4.2.2.2",
+      "company": "Level3"
+    },
+    {
+      "id": 13,
+      "ip": "4.2.2.3",
+      "company": "Level3"
+    },
+    {
+      "id": 14,
+      "ip": "4.2.2.4",
+      "company": "Level3"
+    },
+    {
+      "id": 15,
+      "ip": "156.154.70.1",
+      "company": "Neustar DNS"
+    },
+    {
+      "id": 16,
+      "ip": "156.154.71.1",
+      "company": "Neustar DNS Backup"
+    },
+    {
+      "id": 17,
+      "ip": "74.82.42.42",
+      "company": "Hurricane Electric"
+    },
+    {
+      "id": 18,
+      "ip": "185.228.168.9",
+      "company": "CleanBrowsing Family Filter"
+    },
+    {
+      "id": 19,
+      "ip": "185.228.169.9",
+      "company": "CleanBrowsing Adult Filter"
+    },
+    {
+      "id": 20,
+      "ip": "198.101.242.72",
+      "company": "Alternate DNS"
+    },
+    {
+      "id": 21,
+      "ip": "78.47.64.161",
+      "company": "DNS.WATCH"
+    },
+    {
+      "id": 22,
+      "ip": "84.200.69.80",
+      "company": "DNS.WATCH Backup"
+    },
+    {
+      "id": 23,
+      "ip": "199.85.126.10",
+      "company": "Norton ConnectSafe"
+    },
+    {
+      "id": 24,
+      "ip": "199.85.127.10",
+      "company": "Norton ConnectSafe Backup"
+    },
+    {
+      "id": 25,
+      "ip": "37.235.1.174",
+      "company": "FreeDNS"
+    },
+    {
+      "id": 26,
+      "ip": "37.235.1.177",
+      "company": "FreeDNS Backup"
+    },
+    {
+      "id": 27,
+      "ip": "45.77.165.194",
+      "company": "DNS.SB"
+    },
+    {
+      "id": 28,
+      "ip": "66.70.228.164",
+      "company": "Free France DNS"
+    },
+    {
+      "id": 29,
+      "ip": "176.103.130.130",
+      "company": "AdGuard DNS"
+    },
+    {
+      "id": 30,
+      "ip": "176.103.130.132",
+      "company": "AdGuard DNS Backup"
+    },
+    {
+      "id": 31,
+      "ip": "94.140.14.14",
+      "company": "AdGuard DNS for Family Protection"
+    },
+    {
+      "id": 32,
+      "ip": "94.140.14.15",
+      "company": "AdGuard DNS for Family Protection Backup"
+    },
+    {
+      "id": 33,
+      "ip": "9.9.9.11",
+      "company": "Quad9 ECS"
+    },
+    {
+      "id": 34,
+      "ip": "94.140.15.15",
+      "company": "AdGuard Safe"
+    },
+    {
+      "id": 35,
+      "ip": "94.140.15.16",
+      "company": "AdGuard Safe Backup"
+    },
+    {
+      "id": 36,
+      "ip": "217.31.204.130",
+      "company": "CESNET DNS"
+    },
+    {
+      "id": 37,
+      "ip": "64.6.64.6",
+      "company": "Verisign"
+    },
+    {
+      "id": 38,
+      "ip": "64.6.65.6",
+      "company": "Verisign Backup"
+    },
+    {
+      "id": 39,
+      "ip": "185.222.222.222",
+      "company": "Resilient DNS"
+    },
+    {
+      "id": 40,
+      "ip": "185.222.222.223",
+      "company": "Resilient DNS Backup"
+    },
+    {
+      "id": 41,
+      "ip": "205.251.198.30",
+      "company": "AWS Route 53"
+    },
+    {
+      "id": 42,
+      "ip": "8.20.247.20",
+      "company": "Comodo Secure DNS"
+    },
+    {
+      "id": 43,
+      "ip": "185.121.177.177",
+      "company": "SafeSurfer"
+    },
+    {
+      "id": 44,
+      "ip": "185.121.177.53",
+      "company": "SafeSurfer Backup"
+    },
+    {
+      "id": 45,
+      "ip": "203.80.96.10",
+      "company": "SecureDNS Asia"
+    },
+    {
+      "id": 46,
+      "ip": "202.46.34.74",
+      "company": "SecureDNS Oceania"
+    },
+    {
+      "id": 47,
+      "ip": "202.134.39.20",
+      "company": "SecureDNS Middle East"
+    },
+    {
+      "id": 48,
+      "ip": "10.202.10.10",
+      "company": "Radar"
+    },
+    {
+      "id": 49,
+      "ip": "10.202.10.11",
+      "company": "Radar Backup"
+    },
+    {
+      "id": 50,
+      "ip": "185.51.200.2",
+      "company": "Shecan"
+    },
+    {
+      "id": 51,
+      "ip": "178.22.122.100",
+      "company": "Shecan Backup"
+    }
+  ]
+}
