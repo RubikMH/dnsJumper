@@ -28,7 +28,7 @@ A cross-platform DNS performance testing and optimization tool that automaticall
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/dnsJumper.git
+   git clone https://github.com/RubikMH/dnsJumper.git
    cd dnsJumper
    ```
 
@@ -216,4 +216,4 @@ If you have any questions or issues, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [RubikMH](https://github.com/RubikMH)
